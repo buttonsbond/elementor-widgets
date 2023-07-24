@@ -42,7 +42,7 @@ class Habeno_Mortgage_Widget extends Widget_Base {
 			[
 				'label' => __( 'Partner ID', 'text-domain' ),
 				'type' => Controls_Manager::TEXT,
-				'default' => 'YOUR_PARTNER_ID',
+				'default' => '4f3165c0-4a3d-4a1a-32ae-08db459bccc4',
 			]
 		);
 
