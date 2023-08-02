@@ -3,7 +3,7 @@
 Plugin Name: All Tech Plus Elementor Widgets
 Plugin URI: http://all-tech-plus.com
 Description: Custom Elementor widgets for enhancing website functionality.
-Version: 1.3
+Version: 1.4
 Author: Mark van Bellen, All Tech Plus, Rojales
 Author URI: http://all-tech-plus.com
 License: Donation!
